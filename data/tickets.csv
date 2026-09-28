@@ -1,0 +1,96 @@
+ticket_id,ticket_description,category,priority,status
+T001,I cannot login to the application,Login Issue,High,Open
+T002,Password reset is not working,Login Issue,High,Open
+T003,Application gives error while saving,Application Error,High,Open
+T004,Need monthly sales report,Report,Medium,Closed
+T005,Application is very slow,Performance,High,Open
+T006,Cannot reset password,Login Issue,Medium,Open
+T007,Error message appears on screen,Application Error,High,Open
+T008,Please generate quarterly report,Report,Medium,Closed
+T009,The app is loading slowly,Performance,High,Open
+T010,Forgot my password,Login Issue,High,Open
+T011,Update my email address,Account Update,Low,Open
+T012,System error when uploading file,Application Error,High,Open
+T013,Need sales report for March,Report,High,Open
+T014,Application is running very slow,Performance,Medium,Open
+T015,Cannot change my phone number,Account Update,Medium,Open
+T016,Login page not loading,Login Issue,High,Open
+T017,Database error occurred,Application Error,High,Open
+T018,Generate my monthly performance report,Report,Medium,Closed
+T019,The website is very slow today,Performance,High,Open
+T020,Want to update my address,Account Update,Low,Open
+T021,Password not accepted,Login Issue,High,Open
+T022,Application crashes frequently,Application Error,High,Open
+T023,Need a revenue report,Report,High,Open
+T024,Website is sluggish,Performance,Medium,Open
+T025,Need to change registration email,Account Update,Low,Open
+T026,Unable to login from new device,Login Issue,High,Open
+T027,Error on payment page,Application Error,High,Open
+T028,Please create sales summary,Report,Medium,Closed
+T029,App performance is terrible,Performance,High,Open
+T030,Update my contact information,Account Update,Low,Open
+T031,Cannot reset my password,Login Issue,High,Open
+T032,Getting error code 500,Application Error,High,Open
+T033,Need customer report,Report,Medium,Open
+T034,System very sluggish,Performance,High,Open
+T035,Change my registered name,Account Update,Low,Open
+T036,Login not working,Login Issue,High,Open
+T037,Application error occurred,Application Error,High,Open
+T038,Generate monthly report,Report,Medium,Closed
+T039,Performance is poor,Performance,Medium,Open
+T040,Update account details,Account Update,Low,Open
+T041,Can't login at all,Login Issue,High,Open
+T042,Getting application error,Application Error,High,Open
+T043,Need detailed report,Report,High,Open
+T044,Very slow performance,Performance,High,Open
+T045,Need address update,Account Update,Low,Open
+T046,Unable to sign in with my username,Login Issue,High,Open
+T047,Login keeps failing after entering password,Login Issue,High,Open
+T048,OTP is not received during login,Login Issue,Medium,Open
+T049,My account is locked after multiple login attempts,Login Issue,High,Open
+T050,Cannot access my account after password change,Login Issue,High,Open
+T051,Sign in button is not responding,Login Issue,Medium,Open
+T052,Login session expires immediately,Login Issue,Medium,Open
+T053,Unable to authenticate my account,Login Issue,High,Open
+T054,Password reset link has expired,Login Issue,Medium,Closed
+T055,Cannot login using registered email,Login Issue,High,Open
+T056,Application freezes while submitting form,Application Error,High,Open
+T057,App crashes when opening dashboard,Application Error,High,Open
+T058,Unable to upload profile picture due to an error,Application Error,Medium,Open
+T059,System throws unexpected error during checkout,Application Error,High,Open
+T060,Receiving internal server error on homepage,Application Error,High,Open
+T061,Application closes automatically after login,Application Error,High,Open
+T062,Error while downloading invoice,Application Error,Medium,Open
+T063,Screen goes blank after clicking save,Application Error,High,Open
+T064,Payment confirmation page displays an error,Application Error,High,Open
+T065,Application shows invalid request error,Application Error,Medium,Closed
+T066,Need yearly financial report,Report,High,Open
+T067,Please generate employee attendance report,Report,Medium,Open
+T068,Download purchase report for last month,Report,Medium,Closed
+T069,Need inventory report for August,Report,Medium,Open
+T070,Generate customer activity report,Report,High,Open
+T071,Please provide daily transaction report,Report,Medium,Closed
+T072,I need product sales report for this week,Report,High,Open
+T073,Generate expense report for current quarter,Report,Medium,Open
+T074,Need report of pending customer requests,Report,Medium,Open
+T075,Export annual performance report as PDF,Report,Medium,Closed
+T076,Application takes too long to open,Performance,High,Open
+T077,Dashboard is loading very slowly,Performance,High,Open
+T078,System response time is very high,Performance,Medium,Open
+T079,Website hangs while loading reports,Performance,High,Open
+T080,The application becomes slow in the evening,Performance,Medium,Open
+T081,Pages take several seconds to load,Performance,Medium,Open
+T082,App is lagging while switching between screens,Performance,High,Open
+T083,Slow performance during file upload,Performance,Medium,Open
+T084,The website keeps buffering before loading,Performance,Medium,Closed
+T085,System is responding much slower than usual,Performance,High,Open
+T086,Need to update my registered mobile number,Account Update,Low,Open
+T087,Please change my recovery email address,Account Update,Low,Open
+T088,Update my billing address in the account,Account Update,Low,Closed
+T089,I want to change my display name,Account Update,Low,Open
+T090,Please update my company information,Account Update,Medium,Open
+T091,Need to modify my contact number,Account Update,Low,Open
+T092,Update my profile information,Account Update,Low,Open
+T093,Change my registered organization name,Account Update,Medium,Open
+T094,Need to update alternate phone number,Account Update,Low,Closed
+T095,Please correct my registered email ID,Account Update,Low,Open
